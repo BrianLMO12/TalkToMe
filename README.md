@@ -1,2 +1,0 @@
-# TalkToMe
-Computing project
